@@ -8,7 +8,7 @@ Welcome to the AI Matchmaking Simulation project! This repository contains an in
 ## Author Information
 
 **Author:** Srinivasan Panneer  
-**Email:** post.srinivasan@example.com  
+**Email:** post.srinivasan@gmail.com  
 **Location:** Chennai, Tamil Nadu, India  
 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/srinivasan-p-3b94343b)  
 **GitHub:** [github.com/yourusername](https://github.com/codecached)  
